@@ -27,10 +27,10 @@ nome2 = input ("digite: ")
 
 
 if nomelst == nome2:
-    print ("iés")
+    print ("Correto")
 
 else:
-    print ("cu do capeta")
+    print ("Erro")
     
 file.close
            
